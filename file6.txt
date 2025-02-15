@@ -1,0 +1,5 @@
+hey this is sheikh sahil ahmed sakil 
+and today i will teach yoiu what is devops
+
+whenever we automate things which is required to communicate between development and operation team
+
